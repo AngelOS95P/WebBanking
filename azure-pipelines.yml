@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: MSI
+  name: Default
 
 variables:
   buildConfiguration: 'Release'
